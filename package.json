@@ -48,5 +48,7 @@
     "CHANGELOG.md",
     "package.json",
     "README.md"
-  ]
+   "npm install"
+  "npm run build"
+  
 }
