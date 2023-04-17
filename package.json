@@ -48,5 +48,6 @@
     "CHANGELOG.md",
     "package.json",
     "README.md"
-   "npm run build",
+   "npm run build --package-lock-only --ignore-scripts && npx npm-force-resolutions",
+    },
   
